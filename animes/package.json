@@ -1,7 +1,6 @@
 {
   "name": "animes",
   "private": true,
-  "homepage": "https://Paulogtr.github.io/api_animes",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
