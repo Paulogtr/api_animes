@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import useDebounce from '../components/useDebounce';
+import useDebounce from './useDebounce';
 
 const SearchInput = ({ value, onChange }) => {
   const [displayValue, setDisplayValue] = useState(value);
